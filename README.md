@@ -1,5 +1,4 @@
 # dataKelurahan
-# dataKelurahan
 
  <p align="center">
     Firda Karlinda - 20552011193 - TIF K 20
