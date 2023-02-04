@@ -40,33 +40,51 @@ script php untuk mengkoneksikan ke database.
 
 Screenshot diambil dari website 000webhost setelah project di hosting
 
-*Halaman Login
-
-*Halaman Signup
+*Halaman Register
 <p align="center">
-  <img src="assets/_signup.png" alt="home" width="700px">
-</p>
+  <img src="dataKelurahan/assets/register.png" alt="register" width="700px"> 
+  </p> <br>
+  
+*Halaman Login
+<p align="center">
+  <img src="dataKelurahan/assets/login.png" alt="login" width="700px"> 
+</p> <br>
+
 *Halaman Utama
 <p align="center">
-  <img src="assets/_home.png" alt="home" width="700px">
-</p>
-*Halaman Katalog
+  <img src="dataKelurahan/assets/halamanutama.png" alt="halamanutama" width="700px">
+</p> <br>
+
+*Halaman Pelayanan Masyarakat
 <p align="center">
-  <img src="assets/_katalog.png" alt="home" width="700px">
-</p>
+  <img src="dataKelurahan/assets/pms.png" alt="home" width="700px">
+</p> <br> 
+
+*Halaman Info BLT
+<p align="center">
+  <img src="dataKelurahan/assets/blt.png" alt="home" width="700px">
+</p><br>
+
+*Halaman E-KTP
+<p align="center">
+  <img src="dataKelurahan/assets/ktp.png" alt="home" width="700px">
+</p><br>
+
 *Halaman About
 <p align="center">
-  <img src="assets/_about.png" alt="home" width="700px">
-</p>
-*Halaman Manage
+  <img src="dataKelurahan/assets/about.png" alt="home" width="700px">
+</p><br>
+
+*Halaman Contact
 <p align="center">
-  <img src="assets/_manage.png" alt="home" width="700px">
-</p>
-*Halaman Tambah Produk
+  <img src="dataKelurahan/assets/contact.png" alt="home" width="700px">
+</p> <br>
+
+*Halaman CRUD Tambah Data, Upadate, Delete
 <p align="center">
-  <img src="assets/_tambah_produk.png" alt="home" width="700px">
-</p>
-*Halaman Edit Produk
-<p align="center">
-  <img src="assets/_update.png" alt="home" width="700px">
-</p>
+  <img src="dataKelurahan/assets/td1.png" alt="home" width="700px">
+ <br>
+  <img src="dataKelurahan/assets/td2.png" alt="home" width="700px">
+</p> <br>
+
+
